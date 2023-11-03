@@ -14,6 +14,7 @@ void subsequence(int pos)
 		{
 			cout << arr[i] << " ";
 		}
+		// endl : timeout
 		cout << "\n";
 		return;
 	}
