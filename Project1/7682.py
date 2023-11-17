@@ -1,3 +1,6 @@
+import sys
+input = sys.stdin.readline
+
 def check_win(board, turn):
     # 가로
     for i in range(3):
@@ -36,10 +39,10 @@ def check_final(game):
     return False
 
 while True:
-    game = input()
+    game = input().strip()
     if game == "end":
         break
-    game = list(game.strip())
+    game = list(game)
     if check_final(game):
         print("valid")
     else:
