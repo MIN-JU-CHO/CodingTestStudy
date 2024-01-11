@@ -1,6 +1,7 @@
+// 실행 시간: 152ms 메모리: 13196KB
 #include <vector>
 #include <queue>
-#include <iostream>
+#include <stdio.h>
 
 #define weight first
 #define vertex second
@@ -13,14 +14,15 @@ int d[200001];
 
 int main(void)
 {
-	ios::sync_with_stdio(0);
-	cin.tie(0);
-
-	cin >> V >> E >> st;
+	scanf("%d", &V);
+	scanf("%d", &E);
+	scanf("%d", &st);
 	while (E--)
 	{
 		int u, v, w;
-		cin >> u >> v >> w;
+		scanf("%d", &u);
+		scanf("%d", &v);
+		scanf("%d", &w);
 		adj[u].push_back({ w, v });
 	}
 
@@ -55,9 +57,9 @@ int main(void)
 	{
 		if (d[i] == INF)
 		{
-			cout << "INF" << endl;
+			printf("INF\n");
 			continue;
 		}
-		cout << d[i] << endl;
+		printf("%d\n", d[i]);
 	}
 }
