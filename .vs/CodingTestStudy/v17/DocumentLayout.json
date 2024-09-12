@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\15686.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\15686.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1463_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1463_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1463.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1463.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1504.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1504.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1316.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1316.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1182.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1182.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ebe3f1d5-feac-4131-bf03-0e85ffb89a89}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "15686.cpp",
+              "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\15686.cpp",
+              "RelativeDocumentMoniker": "Project1\\15686.cpp",
+              "ToolTip": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\15686.cpp",
+              "RelativeToolTip": "Project1\\15686.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T16:48:17.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1504.cpp",
+              "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1504.cpp",
+              "RelativeDocumentMoniker": "Project1\\1504.cpp",
+              "ToolTip": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1504.cpp",
+              "RelativeToolTip": "Project1\\1504.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T15:43:31.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1463.cpp",
+              "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1463.cpp",
+              "RelativeDocumentMoniker": "Project1\\1463.cpp",
+              "ToolTip": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1463.cpp",
+              "RelativeToolTip": "Project1\\1463.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T15:38:54.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1463_2.cpp",
+              "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1463_2.cpp",
+              "RelativeDocumentMoniker": "Project1\\1463_2.cpp",
+              "ToolTip": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1463_2.cpp",
+              "RelativeToolTip": "Project1\\1463_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T15:16:20.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "1182.cpp",
+              "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1182.cpp",
+              "RelativeDocumentMoniker": "Project1\\1182.cpp",
+              "ToolTip": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1182.cpp",
+              "RelativeToolTip": "Project1\\1182.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T15:13:30.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1316.cpp",
+              "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1316.cpp",
+              "RelativeDocumentMoniker": "Project1\\1316.cpp",
+              "ToolTip": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1316.cpp",
+              "RelativeToolTip": "Project1\\1316.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T14:42:21.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
