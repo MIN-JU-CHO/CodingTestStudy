@@ -1,3 +1,2 @@
-﻿  15686.cpp
-D:\GitHub\CodingTestStudy\CodingTestStudy\Project1\15686.cpp(41,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  2230.cpp
   Project1.vcxproj -> D:\GitHub\CodingTestStudy\CodingTestStudy\x64\Debug\CodingTestStudy.exe
