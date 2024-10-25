@@ -1,4 +1,2 @@
-﻿  2357.cpp
-D:\GitHub\CodingTestStudy\CodingTestStudy\Project1\2357.cpp(54,53): warning C4334: '<<': 32비트 시프트의 결과가 암시적으로 64비트로 변환됩니다. 64비트 시프트를 사용하시겠습니까?
-D:\GitHub\CodingTestStudy\CodingTestStudy\Project1\2357.cpp(55,53): warning C4334: '<<': 32비트 시프트의 결과가 암시적으로 64비트로 변환됩니다. 64비트 시프트를 사용하시겠습니까?
+﻿  2503.cpp
   Project1.vcxproj -> D:\GitHub\CodingTestStudy\CodingTestStudy\x64\Debug\CodingTestStudy.exe
