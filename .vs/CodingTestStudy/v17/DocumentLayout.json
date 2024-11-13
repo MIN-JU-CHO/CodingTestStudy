@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\30804_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\30804_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\20044.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\20044.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\30804.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\30804.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\4386.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\4386.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -49,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\13335.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\13335.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\20044.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C79C7C5E-B4AC-42B4-BB8F-F900811826E5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\20044.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\2146.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -129,7 +137,7 @@
       "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
-          "DockedWidth": 198,
+          "DockedWidth": 200,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -139,19 +147,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "30804_2.cpp",
+              "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\30804_2.cpp",
+              "RelativeDocumentMoniker": "Project1\\30804_2.cpp",
+              "ToolTip": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\30804_2.cpp",
+              "RelativeToolTip": "Project1\\30804_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T06:53:16.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "30804.cpp",
+              "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\30804.cpp",
+              "RelativeDocumentMoniker": "Project1\\30804.cpp",
+              "ToolTip": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\30804.cpp",
+              "RelativeToolTip": "Project1\\30804.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T06:50:05.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "4386.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\4386.cpp",
               "RelativeDocumentMoniker": "Project1\\4386.cpp",
               "ToolTip": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\4386.cpp",
               "RelativeToolTip": "Project1\\4386.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-25T16:10:57.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "2503.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\2503.cpp",
               "RelativeDocumentMoniker": "Project1\\2503.cpp",
@@ -159,12 +193,11 @@
               "RelativeToolTip": "Project1\\2503.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-25T14:40:58.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T14:40:58.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "2357.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\2357.cpp",
               "RelativeDocumentMoniker": "Project1\\2357.cpp",
@@ -176,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "11501.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\11501.cpp",
               "RelativeDocumentMoniker": "Project1\\11501.cpp",
@@ -188,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "1253_2.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1253_2.cpp",
               "RelativeDocumentMoniker": "Project1\\1253_2.cpp",
@@ -200,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "1253.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1253.cpp",
               "RelativeDocumentMoniker": "Project1\\1253.cpp",
@@ -212,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "2512.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\2512.cpp",
               "RelativeDocumentMoniker": "Project1\\2512.cpp",
@@ -224,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "14940.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\14940.cpp",
               "RelativeDocumentMoniker": "Project1\\14940.cpp",
@@ -236,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "11724.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\11724.cpp",
               "RelativeDocumentMoniker": "Project1\\11724.cpp",
@@ -248,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "13335.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\13335.cpp",
               "RelativeDocumentMoniker": "Project1\\13335.cpp",
@@ -260,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "20044.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\20044.cpp",
               "RelativeDocumentMoniker": "Project1\\20044.cpp",
@@ -268,11 +301,12 @@
               "RelativeToolTip": "Project1\\20044.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T17:48:29.735Z"
+              "WhenOpened": "2024-09-25T17:48:29.735Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "2146.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\2146.cpp",
               "RelativeDocumentMoniker": "Project1\\2146.cpp",
@@ -284,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "1541.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1541.cpp",
               "RelativeDocumentMoniker": "Project1\\1541.cpp",
@@ -296,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "11399.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\11399.cpp",
               "RelativeDocumentMoniker": "Project1\\11399.cpp",
@@ -308,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "1991.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1991.cpp",
               "RelativeDocumentMoniker": "Project1\\1991.cpp",
@@ -320,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "2470.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\2470.cpp",
               "RelativeDocumentMoniker": "Project1\\2470.cpp",
@@ -332,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "2302.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\2302.cpp",
               "RelativeDocumentMoniker": "Project1\\2302.cpp",
@@ -344,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "1563.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1563.cpp",
               "RelativeDocumentMoniker": "Project1\\1563.cpp",
@@ -356,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "3273.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\3273.cpp",
               "RelativeDocumentMoniker": "Project1\\3273.cpp",
@@ -368,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "10830.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\10830.cpp",
               "RelativeDocumentMoniker": "Project1\\10830.cpp",
@@ -380,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "2740.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\2740.cpp",
               "RelativeDocumentMoniker": "Project1\\2740.cpp",
@@ -392,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "14501.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\14501.cpp",
               "RelativeDocumentMoniker": "Project1\\14501.cpp",
@@ -404,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "2467.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\2467.cpp",
               "RelativeDocumentMoniker": "Project1\\2467.cpp",
@@ -416,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "2230.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\2230.cpp",
               "RelativeDocumentMoniker": "Project1\\2230.cpp",
@@ -428,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "15686.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\15686.cpp",
               "RelativeDocumentMoniker": "Project1\\15686.cpp",
@@ -440,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "1504.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1504.cpp",
               "RelativeDocumentMoniker": "Project1\\1504.cpp",
@@ -452,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "1463.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1463.cpp",
               "RelativeDocumentMoniker": "Project1\\1463.cpp",
@@ -464,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "1463_2.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1463_2.cpp",
               "RelativeDocumentMoniker": "Project1\\1463_2.cpp",
@@ -476,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "1182.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1182.cpp",
               "RelativeDocumentMoniker": "Project1\\1182.cpp",
@@ -488,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "1316.cpp",
               "DocumentMoniker": "D:\\GitHub\\CodingTestStudy\\CodingTestStudy\\Project1\\1316.cpp",
               "RelativeDocumentMoniker": "Project1\\1316.cpp",
